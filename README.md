@@ -1,4 +1,8 @@
-# Cubic splines for C++
+# Cubic splines for C++ & C#!
+
+This fork contains the same spline algorithm converted for C#.
+
+The other repository information is left untouched.
 
 ![C++11][cxx-badge]
 ![Test status][test-badge]
